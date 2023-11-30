@@ -1,2 +1,2 @@
-# Patricia Ortega Heckademy_Ej1
+# Patricia Ortega Hackademy_Python_Ej1
 Práctica Python
