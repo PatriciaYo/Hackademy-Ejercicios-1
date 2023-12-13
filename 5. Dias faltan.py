@@ -3,11 +3,11 @@ import datetime as dt
 
 current= dt.date.today()
 print(current)
+
 navidad = dt.date(2023,12,24)
 falta_nav = navidad - current
 tipo= type(falta_nav)
 days_navidad = falta_nav.days
-print(days_navidad)
 print("De hoy", current, "a navidad faltan", days_navidad, "dias." )
 
 muertos = dt.date(2023,11,1)
